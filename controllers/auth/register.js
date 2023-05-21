@@ -30,8 +30,8 @@ dotenv.config();
   const transporter = nodemailer.createTransport({
     host: "smtp.gmail.com",// upgrade later with STARTTLS
     auth: {
-      user: "viblecreators@gmail.com",
-      pass: "xbalicihgvtgmgcn",
+      user: "---ur----dad----@gmail.com",
+      pass: "--------sorry-broo----no---pass---here",
     },
   });
 
